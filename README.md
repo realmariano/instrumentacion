@@ -7,3 +7,4 @@
 Integrantes del grupo de labo:
  * @sabrinator
  * @FLTambosco
+ * @realmariano
