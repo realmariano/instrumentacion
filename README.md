@@ -4,4 +4,5 @@
 
 1- README_GIT_WIN.txt
 
-
+Integrantes del grupo de labo:
+@sabrinator
