@@ -4,7 +4,7 @@
 
 1- README_GIT_WIN.txt
 
-Repositorio principal
+Repositorio principal del laboratorio: https://github.com/Sabrineitor/Instrumental
 
 Integrantes del grupo de labo:
  * @sabrinator
