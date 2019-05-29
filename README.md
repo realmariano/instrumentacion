@@ -4,6 +4,8 @@
 
 1- README_GIT_WIN.txt
 
+Repositorio principal
+
 Integrantes del grupo de labo:
  * @sabrinator
  * @FLTambosco
